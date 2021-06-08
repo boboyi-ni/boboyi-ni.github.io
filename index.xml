@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Say hello!</title>
+    <link>https://example.com/</link>
+    <description>Recent content on Say hello!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <copyright>You</copyright>
+    <lastBuildDate>Mon, 07 Jun 2021 03:16:08 +0800</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello</title>
+      <link>https://example.com/post/hello/</link>
+      <pubDate>Mon, 07 Jun 2021 03:16:08 +0800</pubDate>
+      
+      <guid>https://example.com/post/hello/</guid>
+      <description>hello! </description>
+    </item>
+    
+    <item>
+      <title>Demo</title>
+      <link>https://example.com/post/demo/</link>
+      <pubDate>Mon, 07 Jun 2021 03:06:42 +0800</pubDate>
+      
+      <guid>https://example.com/post/demo/</guid>
+      <description>1. 1~100 隨機取10個數字 用for迴圈排序(不能用sort)import
+print(&#39;隨機未排序&#39;,str(a)) for x in range(len(a)-1): for j in range(len(a)-x-1): if(a[j]&amp;lt;a[j+1]): a[j],a[j+1] = a[j+1],a[j] print(&#39;排序後&#39;,str(a)) </description>
+    </item>
+    
+  </channel>
+</rss>
